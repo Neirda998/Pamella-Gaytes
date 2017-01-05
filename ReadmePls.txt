@@ -1,0 +1,6 @@
+Hummm je sais pas si j'ai le droit d'edit le readme du github mais bon je vais commencer a faire un planning de travail
+1) Upload le résumé de la réunion
+2) Expliquer a Adrien
+3) /!\ Me donner vos disponibilités dans la semaine (pour les sours unity) 
+4) ...
+5)...
