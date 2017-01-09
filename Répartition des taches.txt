@@ -1,5 +1,5 @@
 (Provisoire)
 Adrien TARCY: Game design
 Adrien JOSSE: Modélisation
-Mikael VAZ MARTINS: 
-Sebastien GUERET: Sound design + Evenementiel
+Mikael VAZ MARTINS: Site web + Réseau
+Sebastien GUERET: Sound design + Scénario et évenements scénaristiques
