@@ -5,22 +5,26 @@ Elles permettront de débloquer les niveaux suivants en écrivant les bons mots 
 
 Ordre des niveaux:
 1) Apparition dans le monde, recherche d'une arme, des premières lettres et du hub.
-Style de jeu:
+Style de jeu: Plateformer (Rayman Legends)
+Lettres possédées: NONE
 Lettres récupérée:
 Fin: Arrivé dans le hub
 
-2) 
+2) Accès après avoir écrit ""
 Style de jeu:
+Lettres possédées:
 Lettres récupérée:
 Fin: Arrivé dans le hub
 
-3) 
+3) Accès après avoir écrit ""
 Style de jeu:
+Lettres possédées:
 Lettres récupérée:
 Fin: Arrivé dans le hub
 
-4) 
-Style de jeu:
+4) Accès après avoir écrit "Zombie"
+Style de jeu: Survival/Beat them all (DOOM)
+Lettres possédées:
 Lettres récupérée:
 Fin: Arrivé dans le hub
 
