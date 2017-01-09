@@ -6,3 +6,17 @@ Elles permettront de débloquer les niveaux suivants en écrivant les bons mots 
 Ordre des niveaux:
 1) Apparition dans le monde, recherche d'une arme, des premières lettres et du hub.
 Style de jeu:
+
+2)
+
+
+3)
+
+
+4)
+
+
+BossFake)
+
+
+BossFinal)
