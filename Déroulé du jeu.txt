@@ -2,12 +2,7 @@
 Etant tout les quatre dotés d'un talent inné pour l'informatique, ils décident de créer un virus destiné à désactiver n'importe quel
 appareil électronique afin de shutdown les serveurs où sont stockés les sujets des examens.
 Cependant, le virus s'avère trop efficace et au lieu de s'en prendre aux serveurs de l'école, il commence à attaquer tout ce qui entre
-en contact avec lui. Ainsi, il menace de mettre un terme
-à l'ère numérique et représente une menace de haut niveau pour le monde entier. Nos étudiants, afin de contrer leur virus "Pamella 
-Gaytes" se sont empressés de créer une interface permettant de communiquer avec le virus avant que Pamella ne neutralise l'intégralité de 
-leur matériel. Ils arrivent finalement a créer une safe zone, un endroit que Pamella ne peut désactiver mais semble toutefois capable 
-de modifier celui-ci dans une certaine mesure. En acceptant le défi, vous vous engagez à mettre un terme aux agissement de Pamella,
-vous représentez le dernier rempart entre Pamella et l'humanité toute entière...
+en contact avec lui. Ainsi, il menace de mettre un terme à l'ère numérique et représente une menace de haut niveau pour le monde entier. Nos étudiants, afin de contrer leur virus "Pamella Gaytes" se sont empressés de créer une interface permettant de communiquer avec le virus avant que Pamella ne neutralise l'intégralité de leur matériel. Ils arrivent finalement a créer une safe zone, un endroit que Pamella ne peut désactiver mais semble toutefois capable de modifier celui-ci dans une certaine mesure. En acceptant le défi, vous vous engagez à mettre un terme aux agissement de Pamella, vous représentez le dernier rempart entre Pamella et l'humanité toute entière...
 
 Debut du jeu: Dialogue avec Pamella Gaytes, virus informatique mondial.
 Objectif: Detruire PG
