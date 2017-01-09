@@ -1,4 +1,5 @@
-Adrien TARCY:
-Adrien JOSSE:
-Mikael VAZ MARTINS:
-Sebastien GUERET:
+(Provisoire)
+Adrien TARCY: Game design
+Adrien JOSSE: Modélisation
+Mikael VAZ MARTINS: 
+Sebastien GUERET: Sound design + Evenementiel
