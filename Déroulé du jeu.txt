@@ -7,24 +7,30 @@ Ordre des niveaux:
 1) Apparition dans le monde, recherche d'une arme, des premières lettres et du hub.
 Style de jeu:
 Lettres récupérée:
+Fin: Arrivé dans le hub
 
 2) 
 Style de jeu:
 Lettres récupérée:
+Fin: Arrivé dans le hub
 
-3)
+3) 
 Style de jeu:
 Lettres récupérée:
+Fin: Arrivé dans le hub
 
-4)
+4) 
 Style de jeu:
 Lettres récupérée:
+Fin: Arrivé dans le hub
 
-BossFake)
+BossFake) Accès après avoir écrit "Pamella Gaytes"
+
+Fin: Ejection dans le "monde réel"
 
 
 BossFinal) Ejection dans le "monde réel", devant un ordinateur avec une console d'ouverte.
 Dialogue avec PG.
 Style de jeu: Enigmes de PG à résoudre sur un ordinateur dans le "monde réel".
 
-+ Hub) Accès aux portes des niveaux et à un panneau avec les lettres acquises.
++Hub) Accès aux portes des niveaux et à un panneau avec les lettres acquises.
