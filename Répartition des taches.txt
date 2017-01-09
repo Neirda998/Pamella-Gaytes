@@ -1,4 +1,4 @@
-(Provisoire)
+(Provisoire, à affiner)
 Adrien TARCY: Game design
 Adrien JOSSE: Modélisation
 Mikael VAZ MARTINS: Site web + Réseau
