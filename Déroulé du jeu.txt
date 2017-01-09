@@ -1,6 +1,8 @@
 Debut du jeu: Dialogue avec Pamella Gaytes, virus informatique mondial.
 Objectif: Detruire PG
-Comment: En recupérant des lettres dans chaque niveau. Elles permettront de débloquer les niveaux suivants en écrivant les bons mots avec les bonnes lettres sur un panneau dans un hub.
+Comment: En recupérant des lettres dans chaque niveau.
+Elles permettront de débloquer les niveaux suivants en écrivant les bons mots avec les bonnes lettres sur un panneau dans un hub.
+
 Ordre des niveaux:
 1) Apparition dans le monde, recherche d'une arme, des premières lettres et du hub.
 Style de jeu:
