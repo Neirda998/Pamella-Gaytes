@@ -1,5 +1,8 @@
-(Provisoire, à affiner)
-Adrien TARCY: Game design
-Adrien JOSSE: Modélisation
-Mikael VAZ MARTINS: Site web + Réseau
-Sebastien GUERET: Sound design + Scénario et évenements scénaristiques
+
+TACHES MAJEURS
+-Level Design UNITY/BLENDER Pedro - Robin
+-Création Des Assets BLENDER FL STUDIO : Sébastien GUERET - Adrien JOSSE
+-Programmation UNITY C# : Adrien TARCY
+-Réseau UNITY : Mikael VAZ MARTINS
+-Site Internet TRUC : Mikael VAZ MARTINS
+-Montage : Sébastien GUERET 
