@@ -32,10 +32,24 @@ De nouveau, une conversation s'engage avec Pamella qui expliquera ses motivation
 Cet échange débouchera sur le 1er niveau et marquera donc le début officiel du jeu.
 Ordre des niveaux:
 (A noter qu'en mode Difficile et Hardcore il y'aura quelques petites choses à faire avant).
-1) Apparition dans le monde, recherche d'une arme (disponible directement en mode facile), des premières lettres et du hub.
-Lettres possédées: NONE
-Lettres récupérée:
-Fin: Arrivé dans le hub
+
+1) LEVEL-1 
+Le joueur se retrouve dans un premier monde. Ce monde est un platformer de type mario bros. Au cours de ce level il devra trouver les lettres "RISUVAUE". Au début du niveau Pamella lui explique le principe. Il a sept lettres a récupérer pour pouvoir finir le niveau.
+Une fois le niveau terminé, le personnage retourne dans la SafeZone et avec les lettres obtenues tape des mots.
+Lettres possédées: RISUAVAUE
+Pour accéder au niveau 2 le joueur doit avoir écrit "SAUVEUR"
+Si le joueur à trouver le mot "VISEUR" il démare avec un bonus de dégat pour le prochain niveau.
+Le mot "RUSE" lui donnera une indice pour l'énigme finale.
+Le mot "VIES" a un effet de Guardian Angel
+
+[.................................Différents mots entrainent différentes interactions..............................]
+
+
+Pamella commence alors à se payer la tête du joueur.
+
+
+
+[...................................................INSERER TEXTE (seb).................................................]
 
 2) Accès après avoir écrit ""
 Style de jeu:
