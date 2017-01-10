@@ -17,7 +17,8 @@ Au lancement du jeu un rapide trailer se lance(composé du petit résumé en hau
 Le jeu se veut commencer au moment ou le joueur arrive dans la safe zone.
 A la suite du trailer, un écran noir apparait avec le titre du jeu puis disaprait en effet fondu.
 (Apparaît ensuite un écran de personnalisation de notre personnage ?)
-Au milieu de l'écran et toujours avec l'effet fondu, le personnage apparait debout au milieu de cet interface noir (seul le sol à ses pieds apparaît sinon tout est noir.. c'est le néant).
+Au milieu de l'écran et toujours avec l'effet fondu, le personnage apparait debout au milieu de cet interface noir (seul le sol à ses
+pieds apparaît sinon tout est noir.. c'est le néant).
 Apparaît alors une petite zone de texte en bas et une petite conversation s'engage avec Pamella :
 
 [...................................................INSERER TEXTE (seb).................................................]
