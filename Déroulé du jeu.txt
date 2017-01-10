@@ -8,14 +8,29 @@ virus avant que Pamella ne neutralise l'intégralité de leur matériel. Ils arr
 Pamella ne peut désactiver mais semble toutefois capable de modifier celui-ci dans une certaine mesure. En acceptant le défi, vous vous
 engagez à mettre un terme aux agissement de Pamella, vous représentez le dernier rempart entre Pamella et l'humanité toute entière...
 
-Debut du jeu: Dialogue avec Pamella Gaytes, virus informatique mondial.
+Type du jeu: Semi plateform/FPS, semi inteface de type "menu" (la "safe zone"=le hub)
 Objectif: Detruire PG
 Comment: En recupérant des lettres dans chaque niveau.
 Elles permettront de débloquer les niveaux suivants en écrivant les bons mots avec les bonnes lettres sur un panneau dans un hub.
 
+Au lancement du jeu un rapide trailer se lance(composé du petit résumé en haut, d'une voix off et d'un support visuel).
+Le jeu se veut commencer au moment ou le joueur arrive dans la safe zone.
+A la suite du trailer, un écran noir apparait avec le titre du jeu puis disaprait en effet fondu.
+(Apparaît ensuite un écran de personnalisation de notre personnage ?)
+Au milieu de l'écran et toujours avec l'effet fondu, le personnage apparait debout au milieu de cet interface noir (seul le sol à ses pieds apparaît sinon tout est noir.. c'est le néant).
+Apparaît alors une petite zone de texte en bas et une petite conversation s'engage avec Pamella :
+
+[...................................................INSERER TEXTE (seb).................................................]
+
+Ce petit échange définira la difficulté choisie par le joueur (il devra répondre facile normale ou difficile mais il y'aura un secret mode hardcore a deviner).
+De nouveau, une conversation s'engage avec Pamella qui expliquera ses motivations définira le type de jeu etc.
+
+[...................................................INSERER TEXTE (seb).................................................]
+
+Cet échange débouchera sur le 1er niveau et marquera donc le début officiel du jeu.
 Ordre des niveaux:
-1) Apparition dans le monde, recherche d'une arme, des premières lettres et du hub.
-Style de jeu: Plateformer (Rayman Legends)
+(A noter qu'en mode Difficile et Hardcore il y'aura quelques petites choses à faire avant).
+1) Apparition dans le monde, recherche d'une arme (disponible directement en mode facile), des premières lettres et du hub.
 Lettres possédées: NONE
 Lettres récupérée:
 Fin: Arrivé dans le hub
