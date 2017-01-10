@@ -23,7 +23,8 @@ Apparaît alors une petite zone de texte en bas et une petite conversation s'eng
 
 [...................................................INSERER TEXTE (seb).................................................]
 
-Ce petit échange définira la difficulté choisie par le joueur (il devra répondre facile normale ou difficile mais il y'aura un secret mode hardcore a deviner).
+Ce petit échange définira la difficulté choisie par le joueur (il devra répondre facile normale ou difficile mais il y'aura un mode
+hardcore secret à trouver).
 De nouveau, une conversation s'engage avec Pamella qui expliquera ses motivations définira le type de jeu etc.
 
 [...................................................INSERER TEXTE (seb).................................................]
