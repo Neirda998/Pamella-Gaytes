@@ -34,7 +34,8 @@ Ordre des niveaux:
 (A noter qu'en mode Difficile et Hardcore il y'aura quelques petites choses à faire avant).
 
 1) LEVEL-1 
-Le joueur se retrouve dans un premier monde. Ce monde est un platformer de type mario bros. Au cours de ce level il devra trouver les lettres "RISUVAUE". Au début du niveau Pamella lui explique le principe. Il a sept lettres a récupérer pour pouvoir finir le niveau.
+Le joueur se retrouve dans un premier monde. Ce monde est un platformer de type mario bros. Au cours de ce level il devra trouver les
+lettres "RISUVAUE". Au début du niveau Pamella lui explique le principe. Il a sept lettres a récupérer pour pouvoir finir le niveau.
 Une fois le niveau terminé, le personnage retourne dans la SafeZone et avec les lettres obtenues tape des mots.
 Lettres possédées: RISUAVAUE
 Pour accéder au niveau 2 le joueur doit avoir écrit "SAUVEUR"
