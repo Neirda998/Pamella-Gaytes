@@ -53,19 +53,19 @@ Pamella commence alors à se payer la tête du joueur.
 [...................................................INSERER TEXTE (seb).................................................]
 
 2) Accès après avoir écrit ""
-Style de jeu:
+Style de jeu: Shooter (Space Invaders)
 Lettres possédées:
 Lettres récupérée:
 Fin: Arrivé dans le hub
 
 3) Accès après avoir écrit ""
-Style de jeu:
+Style de jeu: Labyrinthe vu du dessus (Pacman)
 Lettres possédées:
 Lettres récupérée:
 Fin: Arrivé dans le hub
 
 4) Accès après avoir écrit "Zombie"
-Style de jeu: Survival/Beat them all (DOOM)
+Style de jeu: Action FPS assez hard (DOOM/CoD Zombie)
 Lettres possédées:
 Lettres récupérée:
 Fin: Arrivé dans le hub
