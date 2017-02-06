@@ -2,7 +2,7 @@
 using System.Collections;
 
 public class Controll2D : MonoBehaviour {
-    public float godspeed = 10f;
+    public float godspeed = 20f;
     private Rigidbody rig;
     
 
