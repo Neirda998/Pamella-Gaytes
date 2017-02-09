@@ -10,7 +10,7 @@ public class Moving : MonoBehaviour
         public float forwardVel = 12;
         public float rotateVel = 100;
         public float jumpVel = 25;
-        public float distToGrounded = 0.5f;
+        public float distToGrounded = 0.1f;
         public LayerMask ground;
     }
 
