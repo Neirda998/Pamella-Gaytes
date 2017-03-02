@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class CameraController : MonoBehaviour
+public class CameraControler : MonoBehaviour
 {
     public Transform target;
     public float lerpSpeed;
