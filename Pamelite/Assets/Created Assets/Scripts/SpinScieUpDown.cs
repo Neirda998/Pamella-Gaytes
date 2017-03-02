@@ -3,10 +3,6 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class SpinScieUpDown : MonoBehaviour {
-    void Start()
-    {
-
-    }
     private bool down = true;
     private Vector3 targetup = new Vector3(0, 14, 0);
     private Vector3 targetdown = new Vector3(0, 9, 0);
@@ -18,9 +14,7 @@ public class SpinScieUpDown : MonoBehaviour {
         {
             transform.Translate(Vector3.up * Time.deltaTime, Space.World);
             if(targetup.y - transform.position.y <= 0)
-            {
                 down = false;
-            }
         }
         if (!down)
         {
