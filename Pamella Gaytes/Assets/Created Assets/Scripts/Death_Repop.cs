@@ -4,11 +4,10 @@ using UnityEngine;
 
 public class Death_Repop : MonoBehaviour {
     public Vector3 SpawnPoint;
-    void OnTriggerEnter (Collider col)
+    public Transform player;
+    void OnTriggerEnter ()
     {
-		if (col.tag == "Player")
-        {
-            col.transform.position = SpawnPoint;
-        }
+            player.transform.position = SpawnPoint;
+ 
 	}
 }
