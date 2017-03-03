@@ -14,7 +14,7 @@ public class MenuPause : MonoBehaviour
     }
     public void Pause()
     {
-        if (Input.GetKey(KeyCode.Escape))
+        if (Input.GetKeyDown(KeyCode.Escape))
         {
             if (canvas.gameObject.activeInHierarchy == false)
             {
@@ -34,6 +34,7 @@ public class MenuPause : MonoBehaviour
     {
         Application.LoadLevel(0);
         player.GetComponent<Controll2D>().enabled = true;
+        Time.timeScale = 1;
     }
     public void IQuit()
     {
