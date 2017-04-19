@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Level4_FPS.unity
+- path: Assets/Level2_SpaceShooter.unity
   isLoaded: 1
   isActive: 1
