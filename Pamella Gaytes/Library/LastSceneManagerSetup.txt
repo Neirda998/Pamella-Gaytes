@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Level2_SpaceShooter.unity
+- path: Assets/Hub.unity
   isLoaded: 1
   isActive: 1
