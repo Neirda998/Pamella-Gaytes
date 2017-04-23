@@ -83,6 +83,7 @@ public class Done_GameController : MonoBehaviour
         {
             hazardCount += 2;
             g.bonus1 = true;
+            g.damage += 20;
 
             
             
@@ -91,6 +92,7 @@ public class Done_GameController : MonoBehaviour
         {
             hazardCount += 3;
             g.bonus2 = true;
+            g.damage += 20;
         }
 	}
 	

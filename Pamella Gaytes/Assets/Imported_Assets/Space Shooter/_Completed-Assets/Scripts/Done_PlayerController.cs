@@ -22,6 +22,7 @@ public class Done_PlayerController : MonoBehaviour
     public float fireRate;
     public bool bonus1;
     public bool bonus2;
+    public int damage = 10;
 	 
 	private float nextFire;
 	
@@ -29,12 +30,17 @@ public class Done_PlayerController : MonoBehaviour
 	{
 		if (Input.GetButton("Fire1") && Time.time > nextFire) 
 		{
+            BossHP bossHP = shot.GetComponent<Collider>().GetComponent<BossHP>();
 			nextFire = Time.time + fireRate;
             if (bonus1 == true)
             {
                 Instantiate(shot, shotSpawn.position, shotSpawn.rotation);
                 Instantiate(shot, shotSpawnBonus1.position, shotSpawnBonus1.rotation);
                 Instantiate(shot, shotSpawnBonus2.position, shotSpawnBonus2.rotation);
+                if(bossHP != null)
+                {
+                    bossHP.TakeDamage(damage, shot.GetComponent<Collider>() , shot.transform.position);
+                }
                 if (bonus2 == true)
                 {
                     Instantiate(shot, shotSpawnBonus3.position, shotSpawnBonus3.rotation);
