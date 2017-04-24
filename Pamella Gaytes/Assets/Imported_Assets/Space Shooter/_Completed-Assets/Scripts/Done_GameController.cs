@@ -36,13 +36,12 @@ public class Done_GameController : MonoBehaviour
 	
 	void Update ()
 	{
-		if (restart)
-		{
+		
 			if (Input.GetKeyDown (KeyCode.R))
 			{
                 SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
 			}
-		}
+		
 	}
 	
 	IEnumerator SpawnWaves ()
