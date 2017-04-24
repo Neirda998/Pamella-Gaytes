@@ -11,7 +11,7 @@ public class Shooting : MonoBehaviour {
 
     public Camera fpsCam;
     public ParticleSystem muzzleFlash;
-    public GameObject impact;
+    //public GameObject impact;
 
     private float nextTImeToFire = 0f;
 
@@ -35,6 +35,7 @@ public class Shooting : MonoBehaviour {
             Target target = hit.transform.GetComponent<Target>();
             if (target != null)
             {
+                Debug.Log(hit.transform.name);
                 target.TakeDamage(damage);
 
             }
@@ -46,8 +47,8 @@ public class Shooting : MonoBehaviour {
 
             }
 
-            GameObject Impact = Instantiate(impact, hit.point, Quaternion.LookRotation(hit.normal));
-            Destroy(Impact, 2f);
+            //GameObject Impact = Instantiate(impact, hit.point, Quaternion.LookRotation(hit.normal));
+            //Destroy(Impact, 2f);
         }
     }
 }
