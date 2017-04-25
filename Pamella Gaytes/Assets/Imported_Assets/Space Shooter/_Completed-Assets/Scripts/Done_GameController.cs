@@ -78,7 +78,7 @@ public class Done_GameController : MonoBehaviour
 	{
         g = player.GetComponent<Done_PlayerController>();
         scoreText.text = "Score: " + score;
-        if(score > 100)
+        if(score > 250)
         {
             hazardCount += 2;
             g.bonus1 = true;
@@ -87,7 +87,7 @@ public class Done_GameController : MonoBehaviour
             
             
         }
-        if (score > 500)
+        if (score > 1000)
         {
             hazardCount += 3;
             g.bonus2 = true;
@@ -99,5 +99,6 @@ public class Done_GameController : MonoBehaviour
 	{
 		gameOverText.text = "Game Over!";
 		gameOver = true;
+        StopAllCoroutines();
 	}
 }
