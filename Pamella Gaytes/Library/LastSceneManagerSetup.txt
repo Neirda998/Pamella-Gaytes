@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Level4_FPS.unity
+- path: Assets/Final_Boss.unity
   isLoaded: 1
   isActive: 1
