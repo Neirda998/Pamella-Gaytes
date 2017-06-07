@@ -28,9 +28,9 @@ public class HuBController : MonoBehaviour
             rig.AddForce(Vector3.up * jumpSpeed);
         }
     }
-    private void OnCollisionStay(Collider other)
+    private void OnCollisionStay(Collision other)
     {
-        if (other.CompareTag("Ground"))
+        if (other.gameObject.tag== "Ground")
             onGround = true;
         else
             onGround = false;

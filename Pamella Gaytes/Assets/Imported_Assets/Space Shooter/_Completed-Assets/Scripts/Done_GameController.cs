@@ -1,16 +1,19 @@
 ﻿using UnityEngine;
+using UnityEngine.Networking;
 using UnityEngine.SceneManagement;
 using System.Collections;
 
-public class Done_GameController : MonoBehaviour
+public class Done_GameController : NetworkBehaviour
 {
 	public GameObject[] hazards;
+    public GameObject[] models;
     public GameObject player;
 	public Vector3 spawnValues;
 	public int hazardCount;
 	public float spawnWait;
 	public float startWait;
 	public float waveWait;
+    public GameObject mplayer;
 	
 	public GUIText scoreText;
 	public GUIText restartText;
@@ -78,21 +81,35 @@ public class Done_GameController : MonoBehaviour
 	{
         g = player.GetComponent<Done_PlayerController>();
         scoreText.text = "Score: " + score;
-        if(score > 250)
+        switch (score)
         {
-            hazardCount += 2;
+            case 0:
+                models[0].SetActive(true);
+                break;
+            case 100:
+                models[0].SetActive(true);
+                break;
+            case 250:
+                hazardCount += 2;
             g.bonus1 = true;
             g.damage += 20;
+                models[0].SetActive(true);
+                break;
+            case 400:
+                models[0].SetActive(true);
+                break;
+            case 500:
+                hazardCount += 3;
+                g.bonus2 = true;
+                g.damage += 20;
+                models[0].SetActive(true);
+                break;
+            case 600:
+                models[0].SetActive(true);
+                break;
 
-            
-            
         }
-        if (score > 1000)
-        {
-            hazardCount += 3;
-            g.bonus2 = true;
-            g.damage += 20;
-        }
+        
 	}
 	
 	public void GameOver ()
