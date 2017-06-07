@@ -9,6 +9,7 @@ public class FPSPause : MonoBehaviour {
     public Transform canvas;
     public GameObject player;
 
+    
     [SerializeField]
     string scene = SceneManager.GetActiveScene().ToString();
 
@@ -30,6 +31,7 @@ public class FPSPause : MonoBehaviour {
                 player.GetComponent<AudioSource>().enabled = false;
 
             }
+           
             else
             {
                 canvas.gameObject.SetActive(false);
@@ -37,6 +39,11 @@ public class FPSPause : MonoBehaviour {
                 player.GetComponent<FirstPersonController>().enabled = true;
                 player.GetComponent<AudioSource>().enabled = true;
             }
+
+        }
+        if (Input.GetKeyDown(KeyCode.H))
+        {
+            GoToHub();
         }
     }
     public void GoToHub()
@@ -49,7 +56,7 @@ public class FPSPause : MonoBehaviour {
 
     public void Retry()
     {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+        SceneManager.LoadScene(scene);
         player.GetComponent<FirstPersonController>().enabled = true;
         player.GetComponent<AudioSource>().enabled = true;
         Time.timeScale = 1;

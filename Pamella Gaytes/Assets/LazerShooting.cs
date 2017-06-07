@@ -17,6 +17,6 @@ public class LazerShooting : MonoBehaviour {
     void Laser()
     {
         linerenderer.SetPosition(0, shootPoint.position);
-        linerenderer.SetPosition(1, target.position);
+        //linerenderer.SetPosition(1, target.position);
     }
 }
