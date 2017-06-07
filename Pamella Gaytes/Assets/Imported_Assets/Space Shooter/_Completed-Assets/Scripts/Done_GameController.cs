@@ -1,9 +1,8 @@
 ﻿using UnityEngine;
-using UnityEngine.Networking;
 using UnityEngine.SceneManagement;
 using System.Collections;
 
-public class Done_GameController : NetworkBehaviour
+public class Done_GameController : MonoBehaviour
 {
 	public GameObject[] hazards;
     public GameObject[] models;
@@ -13,7 +12,7 @@ public class Done_GameController : NetworkBehaviour
 	public float spawnWait;
 	public float startWait;
 	public float waveWait;
-    public GameObject mplayer;
+    
 	
 	public GUIText scoreText;
 	public GUIText restartText;
